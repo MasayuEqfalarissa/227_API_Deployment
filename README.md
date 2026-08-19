@@ -8,3 +8,6 @@ DELETE KOMIK <img width="1219" height="586" alt="image" src="https://github.com/
 GET GENRE <img width="1203" height="934" alt="image" src="https://github.com/user-attachments/assets/0167cc3e-efcb-438f-9a57-fbde4609af6a" />
 PUT GENRE <img width="1214" height="683" alt="image" src="https://github.com/user-attachments/assets/bb35a1ad-bfd1-4d18-b41c-e6ddc562efcf" />
 DELETE GENRE <img width="1243" height="543" alt="image" src="https://github.com/user-attachments/assets/3039eee6-cce9-4f07-bcd0-04e47b210bba" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/756366c3-da9a-4657-8e89-f67605384683" />
+
